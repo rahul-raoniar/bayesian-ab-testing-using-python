@@ -13,4 +13,4 @@
 2. Beta distribution (continuous) has been utilise to identifying the probabilities of seeing a particular number of success (clicked) and failures (do not click)
 3. The bayesian A/B testing simulated using a Monte Carlo Simulation to check in how many worlds the `B` variant is better than A variant.
 4. Calculated how much better is each `B` variant than each variant `A`.
-5. Generating an interactive app to illustrate the bayesian A/B testing using ipywidgets.
+5. Createded an interactive app using ipywidgets to make the bayesian A/B testing interactive.
